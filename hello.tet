@@ -3,4 +3,5 @@ hello git
 hello git 代码冲突合并
 hello git 测试
 hello git hot-fix test
-切换分支hot-fix ，进行修改提交
+切换分支hot-fix ，进行修改提交，其它行进行修改
+进行修改，本地进行拉区
